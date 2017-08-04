@@ -11,3 +11,6 @@ Servlet , Mysql Database and Netbeans
 <li>Langauge : html,jsp,servlet</li>
 
 <li>Server: Glassfish 4</li>
+
+<li> simply import database in database folder </li>
+
