@@ -1,7 +1,7 @@
 <%-- 
     Document   : room
     Created on : Feb 24, 2016, 2:14:29 PM
-    Author     : Oops
+    Author     : solehin
 --%>
 
 <%@page import="java.sql.ResultSet"%>
