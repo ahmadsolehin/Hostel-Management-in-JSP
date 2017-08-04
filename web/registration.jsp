@@ -1,7 +1,7 @@
 <%-- 
     Document   : registration
     Created on : Feb 24, 2016, 12:26:06 PM
-    Author     : Oops
+    Author     : solehin
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -11,7 +11,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>News - Bhaccasyoniztas Beach Resort Website Template</title>
+	<title>News - msia Beach Resort Website </title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
@@ -119,11 +119,10 @@
 					</li>
 				</ul>
 				<div id="connect">
-					<a href="http://pinterest.com/fwtemplates/" target="_blank" class="pinterest"></a> <a href="http://freewebsitetemplates.com/go/facebook/" target="_blank" class="facebook"></a> <a href="http://freewebsitetemplates.com/go/twitter/" target="_blank" class="twitter"></a> <a href="http://freewebsitetemplates.com/go/googleplus/" target="_blank" class="googleplus"></a>
 				</div>
 			</div>
 			<p>
-				© 2023 by BHACCASYONIZTAS BEACH RESORT. All Rights Reserved
+				© 2023 by msia BEACH RESORT. All Rights Reserved
 			</p>
 		</div>
 	</div>
