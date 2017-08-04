@@ -1,6 +1,9 @@
 # Hostel-Management-in-JSP
 Servlet , Mysql Database and Netbeans
 
+hostel management is a web application for all java learner who start learning java programming. complete use of jsp , servlet and mysql as a backend database and netbeans 8.0 as a IDE.
+
+
 ## configuration
 
 ....................................................
