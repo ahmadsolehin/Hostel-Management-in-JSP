@@ -1,7 +1,7 @@
 <%-- 
     Document   : staff
     Created on : Feb 24, 2016, 4:21:57 PM
-    Author     : Oops
+    Author     : solehin
 --%>
 
 <%@page import="java.sql.ResultSet"%>
