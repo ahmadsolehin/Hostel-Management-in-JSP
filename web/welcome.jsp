@@ -1,7 +1,7 @@
 <%-- 
     Document   : welcome
     Created on : Feb 24, 2016, 12:49:59 PM
-    Author     : Oops
+    Author     : solehin
 --%>
 
 <%@page import="java.sql.DriverManager"%>
