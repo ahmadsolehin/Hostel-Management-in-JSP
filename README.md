@@ -8,6 +8,6 @@ Servlet , Mysql Database and Netbeans
 
 <li>Database :MySQl workbench</li>
 
-Laungauge : html,jsp,servlet
+<li>Langauge : html,jsp,servlet</li>
 
 Server: Glassfish 4
