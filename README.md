@@ -6,7 +6,7 @@ Servlet , Mysql Database and Netbeans
 ....................................................
 <li>Ide : Netbeans 8.0 </li>
 
-Database :MySQl workbench
+<li>Database :MySQl workbench</li>
 
 Laungauge : html,jsp,servlet
 
