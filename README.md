@@ -10,4 +10,4 @@ Servlet , Mysql Database and Netbeans
 
 <li>Langauge : html,jsp,servlet</li>
 
-Server: Glassfish 4
+<li>Server: Glassfish 4</li>
